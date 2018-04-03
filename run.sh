@@ -12,3 +12,4 @@ while true; do
 done
 
 sh /flyway/flyway migrate
+sh /flyway_2/flyway migrate
